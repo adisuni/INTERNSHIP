@@ -1,4 +1,4 @@
-#Python program for craeting a chatbot for healthcare using AI
+#Python program for creating a chatbot for healthcare using AI
 # Importing the libraries
 	from tkinter import *
 	from tkinter import messagebox                           
